@@ -14,9 +14,9 @@ Connect with me on:
 ### About Me
 
 - 👨‍💻 Full-Stack Developer passionate about creating web magic.
-- 💼 Currently working at ontoborn.
+- 💼 Currently working at Cliperact.
 - 🌍 Based India.
-- 🌱 Currently learning **Angular**.
+- 🌱 Currently learning **AI**.
 - 👯 Open to collaboration on **React** projects.
 - 💬 Ask me about **JavaScript** and **React**.
 - 📫 Reach me at **sriram3720@gmail.com**.
